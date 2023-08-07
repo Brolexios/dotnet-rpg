@@ -1,7 +1,7 @@
 
-namespace dotnet_rpg.Models
+namespace dotnet_rpg.Dtos.Character
 {
-    public class Character
+    public class GetCharacterDto
     {
         public int Id { get; set; }
         public string Name { get; set; } = "Frodo";
