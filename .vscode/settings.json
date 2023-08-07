@@ -1,3 +1,4 @@
 {
-  "explorer.sortOrder": "modified"
+  "explorer.sortOrder": "foldersNestsFiles",
+  "dotnet.defaultSolution": "dotnet-rpg.sln"
 }
